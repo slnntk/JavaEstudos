@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml" filepath="$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA1/JAVA1.iml" filepath="$PROJECT_DIR$/JAVA1/JAVA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml" filepath="$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml" filepath="$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml" filepath="$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml" filepath="$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml" filepath="$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml" />
+    </modules>
+  </component>
+</project>
