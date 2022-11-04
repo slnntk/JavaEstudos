@@ -1,0 +1,420 @@
+Index: ExerciciosEstruturaCondicional/src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\r\n    public static void main(String[] args) {\r\n        Exercicios e1 = new Exercicios();\r\n        e1.Exercicio08();\r\n\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ExerciciosEstruturaCondicional/src/Main.java b/ExerciciosEstruturaCondicional/src/Main.java
+--- a/ExerciciosEstruturaCondicional/src/Main.java	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ b/ExerciciosEstruturaCondicional/src/Main.java	(date 1667585617929)
+@@ -1,7 +1,7 @@
+ public class Main {
+     public static void main(String[] args) {
+         Exercicios e1 = new Exercicios();
+-        e1.Exercicio08();
++        e1.Exercicio01();
+ 
+     }
+ }
+\ No newline at end of file
+Index: JAVA1/.idea/uiDesigner.xml
+===================================================================
+diff --git a/JAVA1/.idea/uiDesigner.xml b/JAVA1/.idea/uiDesigner.xml
+deleted file mode 100644
+--- a/JAVA1/.idea/uiDesigner.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ /dev/null	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
+@@ -1,124 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Palette2">
+-    <group name="Swing">
+-      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+-      </item>
+-      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
+-        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+-        <initial-values>
+-          <property name="text" value="Button" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="RadioButton" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="CheckBox" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="Label" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+-          <preferred-size width="-1" height="20" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+-      </item>
+-    </group>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: JAVA1/.idea/dictionaries/cassi.xml
+===================================================================
+diff --git a/JAVA1/.idea/dictionaries/cassi.xml b/JAVA1/.idea/dictionaries/cassi.xml
+deleted file mode 100644
+--- a/JAVA1/.idea/dictionaries/cassi.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ /dev/null	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
+@@ -1,3 +0,0 @@
+-<component name="ProjectDictionaryState">
+-  <dictionary name="cassi" />
+-</component>
+\ No newline at end of file
+Index: JAVA1/src/Aula/Main.java
+===================================================================
+diff --git a/JAVA1/src/Aula/Main.java b/JAVA1/src/Aula/Main.java
+deleted file mode 100644
+--- a/JAVA1/src/Aula/Main.java	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ /dev/null	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
+@@ -1,14 +0,0 @@
+-package Aula;
+-
+-import java.util.Locale;
+-
+-public class Main {
+-
+-    public static void main(String[] args) {
+-        String nome = "Maria";
+-        int idade = 31;
+-        double renda = 4000;
+-        System.out.printf("Nome: %s \nIdade: %d anos \nRenda: R$%.2f reais", nome, idade, renda) ;
+-
+-    }
+-}
+\ No newline at end of file
+Index: JAVA1/.idea/modules.xml
+===================================================================
+diff --git a/JAVA1/.idea/modules.xml b/JAVA1/.idea/modules.xml
+deleted file mode 100644
+--- a/JAVA1/.idea/modules.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ /dev/null	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/JAVA1.iml" filepath="$PROJECT_DIR$/JAVA1.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: JAVA1/.idea/misc.xml
+===================================================================
+diff --git a/JAVA1/.idea/misc.xml b/JAVA1/.idea/misc.xml
+deleted file mode 100644
+--- a/JAVA1/.idea/misc.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ /dev/null	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: TestesAULA37/src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/TestesAULA37/src/Main.java b/TestesAULA37/src/Main.java
+new file mode 100644
+--- /dev/null	(date 1667581755579)
++++ b/TestesAULA37/src/Main.java	(date 1667581755579)
+@@ -0,0 +1,11 @@
++import java.util.Locale;
++
++public class Main {
++    public static void main(String[] args) {
++
++        Locale.setDefault(Locale.US);
++        Exercicios p1 = new Exercicios();
++        p1.ExemploAula40();
++
++    }
++}
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ b/.idea/misc.xml	(date 1667585455553)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="19" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: TestesAULA37/src/Exercicios.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/TestesAULA37/src/Exercicios.java b/TestesAULA37/src/Exercicios.java
+new file mode 100644
+--- /dev/null	(date 1667583843709)
++++ b/TestesAULA37/src/Exercicios.java	(date 1667583843709)
+@@ -0,0 +1,71 @@
++import java.util.Scanner;
++
++public class Exercicios {
++
++    public void AtribuicaoAcumulativa() {
++
++        double valor = 50;
++
++        Scanner sc = new Scanner(System.in);
++        double minutos = sc.nextDouble();
++
++        if (minutos <= 100) {
++            System.out.printf("Valor a pagar: R$: %.2f", valor);
++        } else {
++            valor += (minutos - 100) * 2;
++            System.out.printf("Valor a pagar: R$: %.2f", valor);
++        }
++    }
++
++    public void SwitchCase() {
++
++        Scanner sc = new Scanner(System.in);
++        int dia = sc.nextInt();
++        String nome;
++
++        switch (dia) {
++            case 1:
++                nome = "domingo";
++                break;
++            case 2:
++                nome = "segunda";
++                break;
++            case 3:
++                nome = "terça";
++                break;
++            case 4:
++                nome = "quarta";
++                break;
++            case 5:
++                nome = "quinta";
++                break;
++            case 6:
++                nome = "sexta";
++                break;
++            case 7:
++                nome = "sabado";
++                break;
++            default:
++                nome = "valor invalido";
++                break;
++        }
++        System.out.println("Dia da semana: " + nome);
++    }
++
++    public void CondicionalTernaria(){
++        double preco = 34.5;
++        double desconto = (preco < 20.0) ? preco * 0.1 : preco * 0.05;
++        System.out.println(desconto);
++    }
++
++    public void ExemploAula40(){
++        double price = 400.00;
++        double desconto = 0;
++        desconto = (price < 200) ? price * 0.10 : price * 0.20;
++        System.out.print(desconto);
++    }
++
++
++
++
++}
+Index: Java/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Java/.idea/.gitignore b/Java/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1667503812758)
++++ b/Java/.idea/.gitignore	(date 1667503812758)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: ExercicioFixacao/src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\r\n    public static void main(String[] args) {\r\n        String produto1 = \"Computer\";\r\n        String produto2 = \"Offce desk\";\r\n\r\n        int idade = 30;\r\n        int codigos = 5290;\r\n        char genero = 'F';\r\n\r\n        double preco1 = 2100;\r\n        double preco2 = 650.50;\r\n        double medida = 53.234567;\r\n\r\n        System.out.printf(\"Produtos:\\n%s, cujo o preço é R$ %.2f\\n\" +\r\n                \"%s, cujo o preco é R$ %.2f\" +\r\n                \"\\n\\nRecordes: %d anos, fez %d códigos e é do gênero %c\\n\",\r\n                produto1, preco1, produto2, preco2, idade, codigos, genero);\r\n        System.out.printf(\"\\nMedida com oito casas decimais: %.8f \" +\r\n                          \"\\nMedida com 3 casas decimais: %.3f\", medida, medida);\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ExercicioFixacao/src/Main.java b/ExercicioFixacao/src/Main.java
+--- a/ExercicioFixacao/src/Main.java	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ b/ExercicioFixacao/src/Main.java	(date 1667584892314)
+@@ -18,4 +18,5 @@
+         System.out.printf("\nMedida com oito casas decimais: %.8f " +
+                           "\nMedida com 3 casas decimais: %.3f", medida, medida);
+     }
++
+ }
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"\" vcs=\"Git\" />\r\n    <mapping directory=\"$PROJECT_DIR$/Java\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ b/.idea/vcs.xml	(date 1667588644948)
+@@ -3,5 +3,6 @@
+   <component name="VcsDirectoryMappings">
+     <mapping directory="" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$/Java" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/TestesAULA44" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml\" filepath=\"$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml\" filepath=\"$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/.idea/IdeaProjects.iml\" filepath=\"$PROJECT_DIR$/.idea/IdeaProjects.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/JAVA1/JAVA1.iml\" filepath=\"$PROJECT_DIR$/JAVA1/JAVA1.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml\" filepath=\"$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml\" filepath=\"$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml\" filepath=\"$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml\" filepath=\"$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml\" />\r\n      <module fileurl=\"file://$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml\" filepath=\"$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	(revision a45ea2520fda3acb9a21c8fe4e7c49cd74437c0e)
++++ b/.idea/modules.xml	(date 1667585149149)
+@@ -5,12 +5,7 @@
+       <module fileurl="file://$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml" filepath="$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml" />
+       <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
+       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/JAVA1/JAVA1.iml" filepath="$PROJECT_DIR$/JAVA1/JAVA1.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml" filepath="$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml" filepath="$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml" filepath="$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml" />
+       <module fileurl="file://$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml" filepath="$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml" filepath="$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
+diff --git a/JAVA1/JAVA1.iml b/TestesAULA37/TestesAULA37.iml
+rename from JAVA1/JAVA1.iml
+rename to TestesAULA37/TestesAULA37.iml
+diff --git a/JAVA1/.idea/.gitignore b/.idea/.gitignore
+rename from JAVA1/.idea/.gitignore
+rename to .idea/.gitignore
