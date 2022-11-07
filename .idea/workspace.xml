@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e89c81-0300-4d96-a0a4-dd6a13408178" name="Changes" comment="Testes1">
-      <change afterPath="$PROJECT_DIR$/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosEstruturaFor/src/Exercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosEstruturaFor/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesAULA49/TestesAULA49.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesAULA49/src/Exemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesAULA49/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesAULA54/TestesAULA54.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesAULA54/src/Exercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesAULA54/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,6 +59,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -75,7 +73,7 @@
       <recent name="C:\Users\cassi\IdeaProjects\Seção 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ExerciciosEstruturaWhile0" />
@@ -97,6 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TestesAULA54" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ExerciciosEstruturaCondicional" />
@@ -106,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -127,7 +133,8 @@
       <workItem from="1667588423774" duration="363000" />
       <workItem from="1667592227554" duration="1884000" />
       <workItem from="1667594138578" duration="1863000" />
-      <workItem from="1667826621396" duration="5718000" />
+      <workItem from="1667826621396" duration="9664000" />
+      <workItem from="1667842067072" duration="2300000" />
     </task>
     <task id="LOCAL-00001" summary="Testes">
       <created>1667571463875</created>
@@ -164,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667594248909</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Testes1">
+      <created>1667832390537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667832390537</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Testes1">
+      <created>1667835700021</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667835700021</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +197,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">

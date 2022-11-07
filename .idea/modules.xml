@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml" filepath="$PROJECT_DIR$/ExercicioFixacao/ExercicioFixacao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosEstruturaWhile0/ExerciciosEstruturaWhile0.iml" filepath="$PROJECT_DIR$/ExerciciosEstruturaWhile0/ExerciciosEstruturaWhile0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExercicioFixacao/ExercicioFixacao.iml" filepath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/ExercicioFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/Exercicios/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" filepath="$PROJECT_DIR$/Exercicios/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExerciciosEstruturaWhile0/ExerciciosEstruturaWhile0.iml" filepath="$PROJECT_DIR$/Exercicios/ExerciciosEstruturaWhile0/ExerciciosEstruturaWhile0.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1/JAVA1.iml" filepath="$PROJECT_DIR$/JAVA1/JAVA1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml" filepath="$PROJECT_DIR$/TestesAULA24/TestesAULA24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml" filepath="$PROJECT_DIR$/TestesAULA25/TestesAULA25.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml" filepath="$PROJECT_DIR$/TestesAULA26/TestesAULA26.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml" filepath="$PROJECT_DIR$/TestesAULA27/TestesAULA27.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml" filepath="$PROJECT_DIR$/TestesAULA30/TestesAULA30.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestesAULA49/TestesAULA49.iml" filepath="$PROJECT_DIR$/TestesAULA49/TestesAULA49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA24/TestesAULA24.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA24/TestesAULA24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA25/TestesAULA25.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA25/TestesAULA25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA26/TestesAULA26.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA26/TestesAULA26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA27/TestesAULA27.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA27/TestesAULA27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA30/TestesAULA30.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA30/TestesAULA30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA49/TestesAULA49.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA49/TestesAULA49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA54/TestesAULA54.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA54/TestesAULA54.iml" />
     </modules>
   </component>
 </project>

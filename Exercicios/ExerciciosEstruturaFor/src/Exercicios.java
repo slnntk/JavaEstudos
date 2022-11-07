@@ -75,12 +75,88 @@ public class Exercicios {
             for (int j = 0;j < 3; j++){
                 System.out.printf(" | " + vetor[i][j]);
             }
-            System.out.printf(" Media linha: %.1f", medias[i]);
-            System.out.println("");
+            System.out.printf(" Media linha: %.1f\n", medias[i]);
+        }
+    }
+
+    public void Exercicio04(){
+
+        Scanner sc = new Scanner(System.in);
+        int qtdNumeros = sc.nextInt();
+
+        int [][] vetor = new int[qtdNumeros][2];
+        int [] saida = new int[qtdNumeros];
+
+        for (int i = 0;i < qtdNumeros;i++){
+            for (int j = 0; j < 2;j++){
+                vetor[i][j] = sc.nextInt();
+            }
+        }
+
+        for (int i = 0;i < qtdNumeros;i++){
+            for (int j = 0; j < 2;j++){
+                System.out.print(" |" + vetor[i][j]);
+            }
+            if (vetor[i][1] == 0){
+                System.out.print("   -> divisao impossivel");
+            }
+            else{
+                saida[i] = vetor[i][0] / vetor[i][1];
+                System.out.print("   -> " + saida[i]);
+            }
+            System.out.println();
+        }
+    }
+
+    public void Exercicio05(){
+
+        Scanner sc = new Scanner(System.in);
+        int numero = sc.nextInt();
+
+        int fatorialN = 1;
+
+        for (int i = 1;i <= numero;i++){
+            fatorialN *= i;
+        }
+        System.out.println(fatorialN);
+    }
+
+    public void Exercicio06(){
+
+        Scanner sc = new Scanner(System.in);
+        int inteiro = sc.nextInt();
+
+        for (int i = 1;i <= inteiro;i ++){
+            if (inteiro % i == 0){
+                System.out.print("," + i);
+            }
         }
 
 
     }
+
+    public void Exercicio07() {
+
+        Locale.setDefault(Locale.US);
+
+        Scanner sc = new Scanner(System.in);
+        int linhas = sc.nextInt();
+
+        double[][] vetor = new double[linhas+1][3];
+
+        for (int i = 1; i < linhas+1; i++) {
+            vetor[i][0] = i;
+            vetor[i][1] = Math.pow(i, 2);
+            vetor[i][2] = Math.pow(i, 3);
+        }
+        for (int i = 1; i < linhas+1; i++) {
+            for (int j = 0; j <= 2; j++) {
+                System.out.printf("%.0f " , vetor[i][j]);
+            }
+            System.out.println();
+        }
+    }
+
 
 
 }
