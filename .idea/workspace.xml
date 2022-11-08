@@ -5,11 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e89c81-0300-4d96-a0a4-dd6a13408178" name="Changes" comment="Testes1">
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA58/TestesAULA58.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA58/src/Exercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA58/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/Teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA60/TestesAULA60.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA60/src/Exercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA60/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA63/TestesAULA63.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA63/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA63/src/TrianguloCompleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA63/src/TrianguloSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA65/TestesAULA65.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA65/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/TestesAULA66.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/src/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA37/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA37/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA37/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA37/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA37/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="Kotlin File" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -46,53 +68,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/cassi/IdeaProjects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cassi/IdeaProjects/TestesDeAula&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cassi\IdeaProjects\TestesDeAula" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cassi\IdeaProjects\TestesDeAula" />
       <recent name="C:\Users\cassi\IdeaProjects" />
       <recent name="C:\Users\cassi\IdeaProjects\Java" />
       <recent name="C:\Users\cassi\IdeaProjects\Exercicios" />
-      <recent name="C:\Users\cassi\IdeaProjects\TestesDeAula" />
       <recent name="C:\Users\cassi\IdeaProjects\Seção 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ExerciciosEstruturaWhile0" />
+      <module name="TestesAULA63" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="TestesAULA49" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ExerciciosEstruturaFor" />
+      <module name="TestesAULA66" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,13 +130,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TestesAULA60" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +162,13 @@
       <workItem from="1667592227554" duration="1884000" />
       <workItem from="1667594138578" duration="1863000" />
       <workItem from="1667826621396" duration="9664000" />
-      <workItem from="1667842067072" duration="6222000" />
+      <workItem from="1667842067072" duration="6364000" />
+      <workItem from="1667907387095" duration="1130000" />
+      <workItem from="1667908529237" duration="103000" />
+      <workItem from="1667908649086" duration="118000" />
+      <workItem from="1667908990777" duration="8541000" />
+      <workItem from="1667917767781" duration="1387000" />
+      <workItem from="1667928643564" duration="7322000" />
     </task>
     <task id="LOCAL-00001" summary="Testes">
       <created>1667571463875</created>
@@ -194,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667845945238</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Testes1">
+      <created>1667851041842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667851041842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
