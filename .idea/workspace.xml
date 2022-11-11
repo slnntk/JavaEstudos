@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e89c81-0300-4d96-a0a4-dd6a13408178" name="Changes" comment="Testes1">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/TestesAULA70.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/src/Calculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/TestesAULA75.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/src/ProdutosDeOutroJeito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/src/ProdutosDoMeuJeito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +98,7 @@
       <recent name="C:\Users\cassi\IdeaProjects\Seção 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TestesAULA63" />
@@ -104,9 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="TestesAULA58" />
+      <module name="TestesAULA75" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +167,8 @@
       <workItem from="1667917767781" duration="1387000" />
       <workItem from="1667928643564" duration="8980000" />
       <workItem from="1667997365218" duration="1198000" />
-      <workItem from="1668079535463" duration="7856000" />
+      <workItem from="1668079535463" duration="9916000" />
+      <workItem from="1668164721709" duration="6289000" />
     </task>
     <task id="LOCAL-00001" summary="Testes">
       <created>1667571463875</created>
@@ -230,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667943314368</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Testes1">
+      <created>1668087831011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668087831011</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
