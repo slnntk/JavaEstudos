@@ -5,27 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e89c81-0300-4d96-a0a4-dd6a13408178" name="Changes" comment="Testes1">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/TestesAULA70.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/src/Calculos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/TestesAULA75.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/src/ProdutosDeOutroJeito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/src/ProdutosDoMeuJeito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/src/pacotedefault/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/src/pacotedefault/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/TestesAULA88.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/aplicações/Exemplo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/aplicações/Exemplo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/aplicações/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/entities/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste/Teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/ExercicioFixacaoGetSet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,8 @@
         <option value="HTML File" />
         <option value="Kotlin File" />
         <option value="module-info" />
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,7 +71,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cassi/IdeaProjects/TestesDeAula&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/cassi/IdeaProjects/TestesDeAula/TestesAULA66/src/Produto.java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,29 +80,26 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\cassi\IdeaProjects\TestesDeAula" />
       <recent name="C:\Users\cassi\IdeaProjects\TestesDeAula" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\cassi\IdeaProjects\TestesDeAula" />
+      <recent name="C:\Users\cassi\IdeaProjects\Exercicios" />
       <recent name="C:\Users\cassi\IdeaProjects\TestesDeAula" />
       <recent name="C:\Users\cassi\IdeaProjects" />
       <recent name="C:\Users\cassi\IdeaProjects\Java" />
-      <recent name="C:\Users\cassi\IdeaProjects\Exercicios" />
-      <recent name="C:\Users\cassi\IdeaProjects\Seção 5" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="TestesAULA63" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TestesAULA66" />
@@ -128,19 +122,34 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="TestesAULA60" />
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="aplicações.Main" />
+      <module name="TestesAULA88" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pacotedefault.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pacotedefault.Main" />
+      <module name="ExercicioFixacaoGetSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pacotedefault.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.pacotedefault.Main" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +177,14 @@
       <workItem from="1667928643564" duration="8980000" />
       <workItem from="1667997365218" duration="1198000" />
       <workItem from="1668079535463" duration="9916000" />
-      <workItem from="1668164721709" duration="6289000" />
+      <workItem from="1668164721709" duration="7638000" />
+      <workItem from="1668424840227" duration="7477000" />
+      <workItem from="1668524392069" duration="1979000" />
+      <workItem from="1668533659900" duration="4852000" />
+      <workItem from="1668599239026" duration="189000" />
+      <workItem from="1668599835456" duration="1544000" />
+      <workItem from="1668704650628" duration="9623000" />
+      <workItem from="1669028377606" duration="8861000" />
     </task>
     <task id="LOCAL-00001" summary="Testes">
       <created>1667571463875</created>
@@ -254,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668087831011</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Testes1">
+      <created>1668173327128</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668173327128</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -21,6 +21,11 @@ public class Main {
 
         //Exercicio4 e4 = new Exercicio4();//
 
+        //Exercicio5 e5 = new Exercicio5();//
+
+        //Exercicio6 e6 = new Exercicio6();//
+
+        Exercicio7 e7 = new Exercicio7();
     }
 
 

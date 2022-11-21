@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercicios/ExercicioFixacao/ExercicioFixacao.iml" filepath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/ExercicioFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/ExercicioFixacaoGetSet.iml" filepath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/ExercicioFixacaoGetSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" filepath="$PROJECT_DIR$/Exercicios/ExerciciosEstruturaCondicional/ExerciciosEstruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" filepath="$PROJECT_DIR$/Exercicios/ExerciciosEstruturaFor/ExerciciosEstruturaFor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/ExerciciosEstruturaWhile0/ExerciciosEstruturaWhile0.iml" filepath="$PROJECT_DIR$/Exercicios/ExerciciosEstruturaWhile0/ExerciciosEstruturaWhile0.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA66/TestesAULA66.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/TestesAULA66.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA70/TestesAULA70.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA70/TestesAULA70.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA75/TestesAULA75.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA75/TestesAULA75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesDeAula/TestesAULA88/TestesAULA88.iml" filepath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/TestesAULA88.iml" />
     </modules>
   </component>
 </project>
