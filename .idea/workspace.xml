@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16e89c81-0300-4d96-a0a4-dd6a13408178" name="Changes" comment="Testes1">
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/src/pacotedefault/ContaBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/src/pacotedefault/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/TestesAULA88.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/aplicações/Exemplo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/aplicações/Exemplo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/aplicações/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA88/src/entities/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Exercicio7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacao/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teste/Teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ExercicioFixacaoGetSet/ExercicioFixacaoGetSet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teste/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestesDeAula/TestesAULA66/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +178,9 @@
       <workItem from="1668599239026" duration="189000" />
       <workItem from="1668599835456" duration="1544000" />
       <workItem from="1668704650628" duration="9623000" />
-      <workItem from="1669028377606" duration="8861000" />
+      <workItem from="1669028377606" duration="9651000" />
+      <workItem from="1669050348654" duration="10039000" />
+      <workItem from="1669116339955" duration="9595000" />
     </task>
     <task id="LOCAL-00001" summary="Testes">
       <created>1667571463875</created>
@@ -277,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668173327128</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Testes1">
+      <created>1669037536371</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669037536371</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
